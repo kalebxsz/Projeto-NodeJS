@@ -1,0 +1,29 @@
+{
+  "name": "projeto-nodejs",
+  "version": "1.0.0",
+  "description": "projeto de node js com mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalebxsz/Projeto-NodeJS.git"
+  },
+  "keywords": [
+    "express",
+    "express-handlebars",
+    "bootstrap",
+    "mysql"
+  ],
+  "author": "kaleb gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalebxsz/Projeto-NodeJS/issues"
+  },
+  "homepage": "https://github.com/kalebxsz/Projeto-NodeJS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
